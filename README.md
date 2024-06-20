@@ -15,6 +15,8 @@ The Recipe Finder Application is a web-based platform that allows users to searc
 - **Axios**: Used for making HTTP requests to the external recipe API.
 - **Spoonacular API**: External API used for fetching recipe data.
 
+## Hosted Link : https://recipe-finder-app-placement-module-assignment.vercel.app/  
+
 ## Getting Started
 
 npm install
@@ -27,4 +29,4 @@ You need to have Node.js installed on your system to run this project locally. N
 
 1. Clone the repository:
    ```bash
- 
+ https://github.com/PradhumnChandrawat/Recipe-Finder-App-PlacementModuleAssignment.git
