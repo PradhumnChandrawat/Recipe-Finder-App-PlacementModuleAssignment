@@ -1,0 +1,37 @@
+.details-container {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  margin: 20px;
+}
+
+.details-title {
+  color: #333;
+  margin-bottom: 15px;
+}
+
+.details-image {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.recipe-meta {
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+ul {
+  list-style: inside square;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
